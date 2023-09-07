@@ -2,4 +2,8 @@ First Line is from Repository Owner
 Second Line if from Collab
 Third Line is from handsomearvie
 Fourth Line is from Pauly
+<<<<<<< HEAD
 ROSALIE GAMBOA-22104660
+=======
+This is a Clone
+>>>>>>> a4a8078453ad27daf0e77d42fc8615a0c254563d
