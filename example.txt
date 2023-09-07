@@ -1,3 +1,9 @@
 First Line is from Repository Owner
 Second Line if from Collab
+<<<<<<< HEAD
 This Line is from 22104702@usc.edu.ph
+=======
+Third Line is from handsomearvie
+Fourth Line is from Pauly
+This is a Clone
+>>>>>>> a4a8078453ad27daf0e77d42fc8615a0c254563d
