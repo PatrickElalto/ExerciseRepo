@@ -1,9 +1,3 @@
-First Line is from Repository Owner
-Second Line if from Collab
-<<<<<<< HEAD
-This Line is from 22104702@usc.edu.ph
-=======
-Third Line is from handsomearvie
-Fourth Line is from Pauly
-This is a Clone
->>>>>>> a4a8078453ad27daf0e77d42fc8615a0c254563d
+ This is Rizalyn Q. Quezon project in WEBDEV2. It was titled as 'ReminderList'. It is a crud application where its main functionality is to enable the user
+to add, edit, delete and leave a comment on the activity they have added successfully in the system. The system has two type of users; A users who typically 
+in control for the adding of activity and a admin who have control over how many activities has been made.
